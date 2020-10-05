@@ -3,3 +3,5 @@
 
 <b>Please read the guide below if you want to compile.</b><br>
 <b>https://www.massivecraft.com/tech-compile</b>
+
+<b>Update to 1.16.2</b>
